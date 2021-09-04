@@ -1,16 +1,16 @@
 # SimBA CPU written in VHDL
-SimBA (Simple Bio Accelerator) is project for 32-bit processor designed for biomedical signal processing as a project on bachelor thesis.
+SimBA (Simple Bio Accelerator) is a 32-bit processor designed specifically for biomedical signal processing as a project on bachelor thesis.
 
 # Main features
-- Harvard memory architecture
-- RISC instruction set with extension for digital signal processing
-- MAC unit and modulo adressing for filtering operations
-- Pipelined architecture for all RISC instructions and signal processing extensions
+- Harvard memory architecture.
+- RISC instruction set with extension for digital signal processing.
+- MAC unit and modulo adressing for filtering operations.
+- Pipelined architecture for all RISC instructions and signal processing extensions.
 
 # Project structure
-- src - VHDL source files for CPU
-- testbenches - tests for each functional unit
-- docs - block diagrams, wave simulations
+- src - VHDL source files for CPU.
+- testbenches - tests for each functional unit.
+- docs - block diagrams, wave simulations.
 
 # Available instructions
 Following instructions are supported:
